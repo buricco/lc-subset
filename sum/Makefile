@@ -1,3 +1,5 @@
+all:	sum
+
 sum:	sum.o
 	$(CC) -o sum sum.o
 

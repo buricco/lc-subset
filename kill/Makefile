@@ -1,3 +1,5 @@
+all:	kill
+
 kill:   kill.o signames.o
 	$(CC) -o kill kill.o signames.o
 

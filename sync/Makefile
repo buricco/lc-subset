@@ -1,3 +1,5 @@
+all:	sync
+
 sync:	sync.o
 	$(CC) -o sync sync.o
 

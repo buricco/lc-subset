@@ -1,3 +1,5 @@
+all:	tty
+
 tty:	tty.o
 	$(CC) -o tty tty.o
 

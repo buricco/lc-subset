@@ -1,3 +1,5 @@
+all:	renice
+
 renice:	renice.o
 	$(CC) -o renice renice.o
 

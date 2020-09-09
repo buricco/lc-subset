@@ -1,3 +1,5 @@
+all:	yes
+
 yes:	yes.o
 	$(CC) -o yes yes.o
 

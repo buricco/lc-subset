@@ -1,3 +1,5 @@
+all:	rmdir
+
 rmdir:	rmdir.o
 	$(CC) -o rmdir rmdir.o
 

@@ -1,3 +1,5 @@
+all:	nice
+
 nice:	nice.o pwcache.o
 	$(CC) -o nice nice.o pwcache.o
 

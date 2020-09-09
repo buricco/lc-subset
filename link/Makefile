@@ -1,3 +1,5 @@
+all:	link
+
 link:	link.o
 	$(CC) -o link link.o
 

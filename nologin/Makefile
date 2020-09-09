@@ -1,3 +1,5 @@
+all:	nologin
+
 nologin:	nologin.o
 	$(CC) -o nologin nologin.o
 

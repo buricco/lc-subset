@@ -1,3 +1,5 @@
+all:	uptime
+
 uptime:	uptime.o
 	$(CC) -o uptime uptime.o
 

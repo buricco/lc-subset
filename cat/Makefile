@@ -1,3 +1,5 @@
+all:	cat
+
 cat:	cat.o
 	$(CC) -o cat cat.o
 

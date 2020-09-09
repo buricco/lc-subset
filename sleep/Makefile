@@ -1,3 +1,5 @@
+all:	sleep
+
 sleep:	sleep.o
 	$(CC) -o sleep sleep.o
 

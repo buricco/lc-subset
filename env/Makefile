@@ -1,3 +1,5 @@
+all:	env
+
 env:	env.o
 	$(CC) -o env env.o
 

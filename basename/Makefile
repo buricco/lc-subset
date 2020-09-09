@@ -1,3 +1,5 @@
+all:	basename
+
 basename:	basename.o
 	$(CC) -o basename basename.o
 

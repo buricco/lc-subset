@@ -1,3 +1,5 @@
+all:	banner
+
 banner:	banner.o
 	$(CC) -o banner banner.o
 

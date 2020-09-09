@@ -1,3 +1,5 @@
+all:	random
+
 random:	random.o
 	$(CC) -o random random.o
 

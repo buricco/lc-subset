@@ -1,3 +1,5 @@
+all:	dmesg
+
 dmesg:	dmesg.o
 	$(CC) -o dmesg dmesg.o
 

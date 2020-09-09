@@ -1,3 +1,5 @@
+all:	mkdir
+
 mkdir:	mkdir.o setmode.o
 	$(CC) -o mkdir mkdir.o setmode.o
 

@@ -10,3 +10,15 @@ page.
 The default license for all code not otherwise specified is the UIUC or NCSA
 license.  The exceptions are some library functions borrowed from the BSDs.
 Obviously BSD code is under the BSD license.
+
+Thoughts:
+
+I need to write manuals for everything and properly implement make install.
+
+Maybe I could primp up the output of dmesg.
+
+Not all these tools are very well tested.
+
+mount is very basic.
+
+I'd like to reimplement sh just to have a cleaner implementation...

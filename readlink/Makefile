@@ -1,3 +1,5 @@
+all:	readlink
+
 readlink:	readlink.o
 	$(CC) -o readlink readlink.o
 

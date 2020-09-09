@@ -1,3 +1,5 @@
+all:	realpath
+
 realpath:	realpath.o
 	$(CC) -o realpath realpath.o
 

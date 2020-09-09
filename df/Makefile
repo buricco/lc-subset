@@ -1,3 +1,5 @@
+all:	df
+
 df:	df.o
 	$(CC) -o df df.o
 

@@ -1,3 +1,5 @@
+all:	news
+
 news:	news.o pwcache.o
 	$(CC) -o news news.o pwcache.o
 

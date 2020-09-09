@@ -1,3 +1,5 @@
+all:	uname
+
 uname:	uname.o
 	$(CC) -o uname uname.o
 

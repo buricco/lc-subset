@@ -1,3 +1,5 @@
+all:	unlink
+
 unlink:	unlink.o
 	$(CC) -o unlink unlink.o
 

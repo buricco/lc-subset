@@ -1,3 +1,5 @@
+all:	line
+
 line:	line.o
 	$(CC) -o line line.o
 

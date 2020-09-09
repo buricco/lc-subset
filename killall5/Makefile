@@ -1,3 +1,5 @@
+all:	killall5
+
 killall5:	killall5.o
 	$(CC) -o killall5 killall5.o
 

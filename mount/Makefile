@@ -1,3 +1,5 @@
+all:	mount
+
 mount:	mount.o
 	$(CC) -o mount mount.o
 

@@ -1,3 +1,5 @@
+all:	echo
+
 echo:	echo.o
 	$(CC) -o echo echo.o
 

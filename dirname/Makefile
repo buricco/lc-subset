@@ -1,3 +1,5 @@
+all:	dirname
+
 dirname:	dirname.o
 	$(CC) -o dirname dirname.o
 

@@ -1,3 +1,5 @@
+all:	hostname
+
 hostname:	hostname.o
 	$(CC) -o hostname hostname.o
 
