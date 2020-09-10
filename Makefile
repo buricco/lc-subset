@@ -1,5 +1,5 @@
 SUBDIRS= banner basename cat df dirname dmesg echo env hostname kill \
-	killall5 line link logname mkdir mount news nice nologin random \
+	killall5 line link logname mkdir mount news nice nologin pgrep random \
 	readlink realpath renice rmdir sleep sum sync tty uname unlink uptime \
 	yes
 
