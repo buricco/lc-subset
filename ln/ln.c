@@ -59,7 +59,7 @@ void usage (void)
 {
  fprintf (stderr, "%s: usage: %s [-fs] [-L | -P] source target\n"
                   "%s: usage: %s [-fs] [-L | -P] source ... target_dir\n",
-          argv0, argv0);
+          argv0, argv0, argv0, argv0);
  exit(1);
 }
 
