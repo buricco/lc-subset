@@ -26,14 +26,12 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # WITH THE SOFTWARE.
 
-SUBDIRS= banner basename cat chroot df dirname dmesg echo env hostname kill \
-	killall5 line link ln logname mkdir mount news nice nologin pgrep 
-	random readlink realpath renice rmdir sleep sum sync tty uname \
-	unlink uptime yes
+chroot:	chroot.o
+	$(CC) -o chroot chroot.o
 
-.PHONY:	all clean
+chroot.o:	chroot.c
+	$(CC) -c -o chroot.o chroot.c
 
-all clean:
-	for x in $(SUBDIRS); do \
-		$(MAKE) -C $$x -f Makefile $@;	\
-	done
+clean:
+	rm -f chroot chroot.o
+
