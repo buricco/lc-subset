@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * dmesg(8) - print or control the system message buffer
  * (implemented according to LSB 4.1 Core)
  * 

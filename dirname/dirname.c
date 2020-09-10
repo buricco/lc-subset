@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * dirname(1) - return directory portion of a pathname
  * (implemented according to IEEE 1003.1-2017)
  *

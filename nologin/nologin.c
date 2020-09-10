@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * nologin(8) - politely refuse a login
  * 
  * Copyright 2020 S. V. Nickolas.

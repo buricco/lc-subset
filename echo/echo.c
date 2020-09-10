@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * echo - write arguments to standard output
  * (implemented according to IEEE 1003.1-2017, BSD historical precedent and 
  *  System V Release 2 documentation; pick your poison)

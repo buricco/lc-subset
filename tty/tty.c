@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * tty - return user's terminal name
  * (implemented according to IEEE 1003.1-2017)
  * 

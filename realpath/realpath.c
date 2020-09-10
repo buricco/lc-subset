@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * realpath(1) - return resolved physical path
  * 
  * Copyright 2020 S. V. Nickolas.

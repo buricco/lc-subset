@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * hostname(1) - set or print name of current host system
  * domainname(1) - set or print YP domain of current host system
  * 

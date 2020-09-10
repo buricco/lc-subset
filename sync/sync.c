@@ -1,4 +1,7 @@
-/* sync(1) (as according to System V Release 2 documentation)
+/*
+ * SPDX-License-Identifier: NCSA
+ * 
+ * sync(1) (as according to System V Release 2 documentation)
  *
  * Copyright 2020 S. V. Nickolas.
  *

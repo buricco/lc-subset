@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * df(1) - report disk free space
  * (implemented according to IEEE 1003.1-2017)
  * 

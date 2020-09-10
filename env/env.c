@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * env(1) - set the environment for command invocation
  * 
  * Copyright 2020 S. V. Nickolas.

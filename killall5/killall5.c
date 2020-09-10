@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * killall5(1) - terminate or signal processes
  * (implemented according to Solaris 10 manual page)
  * 

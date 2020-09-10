@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * Copyright 2020 S. V. Nickolas.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a

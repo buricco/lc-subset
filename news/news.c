@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * news(1) - print news items
  *           (as according to System V Release 4 documentation)
  *

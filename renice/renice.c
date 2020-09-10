@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * renice(8) - set nice(2) values of running processes
  *
  * Copyright 2020 S. V. Nickolas.

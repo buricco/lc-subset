@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * readlink(1) - display target of symbolic link on standard output
  * 
  * Copyright 2020 S. V. Nickolas.

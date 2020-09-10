@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * pgrep(1) - look up processes based on name and other attributes
  * pkill(1) - signal processes based on name and other attributes
  * 

@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * kill(1) - terminate or signal processes
  * (implemented according to IEEE 1003.1-2017 
  *  with -n extension from util-linux)

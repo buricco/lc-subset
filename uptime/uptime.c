@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * uptime(1) - show how long the system has been running
  *             (reimplementation of the procps-ng version)
  * 

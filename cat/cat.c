@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * cat(1) - concatenate and print files
  *
  * Copyright 2020 S. V. Nickolas.

@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * line(1) - read one line
  *           (as according to System V Release 2 documentation)
  *

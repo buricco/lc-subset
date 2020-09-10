@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * sum(1) - print checksum and block count of a file
  *          (as according to System V Release 2 documentation)
  * 

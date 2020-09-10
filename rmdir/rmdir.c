@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * rmdir(1) - remove directories
  * 
  * Copyright 2020 S. V. Nickolas.

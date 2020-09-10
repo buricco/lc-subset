@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * link(1)
  * (implemented according to IEEE 1003.1-2017)
  *

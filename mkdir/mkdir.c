@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * mkdir(1) - make directories
  * 
  * Copyright 2020 S. V. Nickolas.

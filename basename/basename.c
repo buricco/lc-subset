@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * basename(1) - return non-directory portion of a pathname
  * (implemented according to IEEE 1003.1-2017)
  *

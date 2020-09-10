@@ -1,6 +1,12 @@
 /*
- * Copyright (c) 1988, 1993, 1994, 2017
- *  The Regents of the University of California.  All rights reserved.
+ * SPDX-License-Identifier: BSD-3-Clause
+ * 
+ * Copyright (c) 1988, 1993, 1994
+ *     The Regents of the University of California.  All rights reserved.
+ * Copyright (C) 2014 Sami Kerola <kerolasa@iki.fi>
+ * Copyright (C) 2014 Karel Zak <kzak@redhat.com>
+ * Copyright (C) 2017 Niklas Hambüchen <mail@nh2.me>
+ * Adaptation Copyright 2020 S. V. Nickolas
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
@@ -26,14 +32,10 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  */
+
 /*
  *  2017-10-14 Niklas Hambüchen <mail@nh2.me>
  *  - Extracted signal names mapping from kill.c
- *
- * Copyright (C) 2014 Sami Kerola <kerolasa@iki.fi>
- * Copyright (C) 2014 Karel Zak <kzak@redhat.com>
- * Copyright (C) 2017 Niklas Hambüchen <mail@nh2.me>
- * Adaptation (C) 2020 S. V. Nickolas
  */
 
 #include <ctype.h>		/* for isdigit() */

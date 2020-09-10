@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * nice(1) - invoke a utility with an altered nice(2) value
  *
  * Copyright 2020 S. V. Nickolas.

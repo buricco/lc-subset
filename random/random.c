@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * random(1) - generate a random number
  *             (as according to System V Release 4 documentation)
  *

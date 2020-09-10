@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * banner(1) - make posters
  *             (as according to System V Release 2 documentation)
  *

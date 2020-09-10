@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * logname(1) - return the user's login name
  * 
  * Copyright 2020 S. V. Nickolas.
