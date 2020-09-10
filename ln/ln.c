@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: NCSA
+ * 
  * ln(1) - link files
  * 
  * Copyright 2020 S. V. Nickolas.
