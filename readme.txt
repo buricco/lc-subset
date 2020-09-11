@@ -22,3 +22,5 @@ Not all these tools are very well tested.
 mount is very basic.
 
 I'd like to reimplement sh just to have a cleaner implementation...
+
+I left who(1) out of the actual Lunaris core because it's kind-of braindead.
