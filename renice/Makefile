@@ -28,14 +28,17 @@
 
 all:	renice
 
-renice:	renice.o
-	$(CC) -o renice renice.o
+renice:	renice.o pwcache.o
+	$(CC) -o renice renice.o pwcache.o
 
 renice.o:	renice.c
 	$(CC) -c -o renice.o renice.c
 
+pwcache.o:	pwcache.c
+	$(CC) -c -o pwcache.o pwcache.c
+
 clean:
-	rm -f renice renice.o
+	rm -f renice renice.o pwcache.o
 
 install:
 	install -d -m 755 renice /bin
