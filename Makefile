@@ -27,9 +27,9 @@
 # WITH THE SOFTWARE.
 
 SUBDIRS= banner basename cat chroot df dirname dmesg echo env hostname kill \
-	killall5 line link ln logname mkdir mount news nice nologin pgrep \
-	random readlink realpath renice rmdir sleep sum sync tty uname \
-	unlink uptime who yes
+	killall5 line link ln logname mkdir mount news nice nologin \
+	pivot_root pgrep random readlink realpath renice rmdir sleep sum \
+	sync tty uname unlink uptime who yes
 
 .PHONY:	all clean
 
